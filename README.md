@@ -24,7 +24,7 @@ Sentiment analysis is a crucial task in NLP that helps in understanding the sent
 
 ## Dataset
 
-The dataset used in this project contains product reviews from e-commerce platforms. It includes text reviews and corresponding sentiment labels (positive or negative). The dataset can be found [here](https://github.com/rajrawal/Sentiment-Analysis-on-Product-Reviews/blob/main/appl_1_amazon_pc.csv) (link to the dataset if available).
+The dataset used in this project contains product reviews from e-commerce platforms. It includes text reviews and corresponding sentiment labels (positive or negative). The dataset can be found [here](https://github.com/rajrawal/Sentiment-Analysis-on-Product-Reviews/blob/main/appl_1_amazon_pc.csv) .
 
 ## Data Preprocessing
 
